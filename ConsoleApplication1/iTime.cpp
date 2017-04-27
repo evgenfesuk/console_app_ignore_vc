@@ -2,7 +2,7 @@
 #include "iTime.h"
 
 
-iTime::iTime()
+iTime::iTime() : h(0), m(0)
 {
 }
 
