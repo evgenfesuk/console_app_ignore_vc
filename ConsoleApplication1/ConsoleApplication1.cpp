@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include "iClass.h"
+#include "iTime.h"
 
 int main()
 {
