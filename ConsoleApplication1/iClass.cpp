@@ -2,7 +2,7 @@
 #include "iClass.h"
 
 
-iClass::iClass()
+iClass::iClass() : i(0)
 {
 }
 
