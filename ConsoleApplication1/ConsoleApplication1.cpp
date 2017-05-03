@@ -10,7 +10,7 @@ int main()
 {
 	//test
 	iClass c;
-	system("pause");
+	//system("pause");
     return 0;
 }
 
